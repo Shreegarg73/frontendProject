@@ -10,7 +10,7 @@ const HeroSection=()=>{
                 <div>
                 <h1>Your Personal Dream Manager</h1>
           <p>
-            We believe that it is all about the BIG DREAMS and the samll
+            We believe that it is all about the BIG DREAMS and the small
             details!
           </p>
           <Link to="contact" spy={true} smooth={true} duration={500}>BOOK NOW</Link>
